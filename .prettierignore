@@ -1,0 +1,10 @@
+*.env
+.env.local
+.env.development.local
+/.visualstudio
+/.vscode
+/node_modules
+/dist
+/build
+/coverage
+/logs
